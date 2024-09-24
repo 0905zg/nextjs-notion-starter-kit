@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
-  description: 'Welcome to Zhang Ge's World',
+  description: 'Welcome to Zhang Ge World',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
